@@ -1,0 +1,13 @@
+Material,Environment,Potential_V,CurrentDensity_uAcm2,EquivalentWeight_g,Density_gcm3
+Al 7075,NaCl,-0.8,0.5,9.0,2.8
+Al 7075,NaCl,-0.7,0.9,9.0,2.8
+Al 7075,NaCl,-0.6,2.0,9.0,2.8
+Al 7075,NaCl,-0.5,4.5,9.0,2.8
+SS 316,NaCl,-0.5,2.5,27.0,8.0
+SS 316,NaCl,-0.4,5.0,27.0,8.0
+SS 316,NaCl,-0.3,10.0,27.0,8.0
+SS 316,NaCl,-0.2,20.0,27.0,8.0
+Ti-6Al-4V,NaCl,-1.0,0.3,22.0,4.43
+Ti-6Al-4V,NaCl,-0.9,0.5,22.0,4.43
+Ti-6Al-4V,NaCl,-0.8,0.7,22.0,4.43
+Ti-6Al-4V,NaCl,-0.7,1.0,22.0,4.43
